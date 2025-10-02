@@ -1,5 +1,5 @@
 
-# 🦺 FiveM Conflict Checker
+# 🖼️ PNG to DDS Converter
 
 <p align="center">
   <img src="./nwapp.png" alt="FiveM Conflict Checker" width="300"/>
@@ -9,15 +9,10 @@
   <a href="https://discord.gg/tyKTs4QyYA" target="_blank">
     <img src="https://img.shields.io/badge/Join%20Discord%20New%20Age-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"/>
   </a>
-  <a href="https://discord.gg/keTyBKaztm" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20Discord%20MRI_Group-169916?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord"/>
-  </a>
   <a href="https://newagestudios.tebex.io/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Tebex%20New%20Age%20Studios-FF5100?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Visit our Tebex"/>
   </a>
 </p>
-
-# 🖼️ PNG to DDS Converter
 
 The **PNG to DDS Converter** is a standalone desktop application that provides an intuitive graphical interface to convert `.png` textures into `.dds` format using **texconv.exe**.  
 
